@@ -9,3 +9,10 @@ The 2024 data was gathered by myself using next generation sequencing _Illumina_
 - Datasets
 - R scripts
 - Final images and presentation
+
+## 📱 Contacts
+>[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mitachicosmin@gmail.com)
+
+>[![ProtonMail](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:mitachi.cosmin@proton.me)
+
+>[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cosmin-george-mitachi-3b02101b7/)
