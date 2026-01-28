@@ -4,6 +4,15 @@ This is my thesis project for the Master Course in **Industrial Biotechnology** 
 ## :lab_coat: Data origin
 The 2024 data was gathered by myself using next generation sequencing _Illumina_ while the 2023 was given to me in order to make a large data analysis and compare the results.
 
+## 🔍 Finding
+The main families of antibiotics involved include macrolides, beta-lactams, tetracyclines, and aminoglycosides. 
+
+The monthly trend is very stable in Novara, with three peaks in October, February, and September. However, in Turin, there was a sudden increase in 2024, with a decline in July, probably due to the summer holidays.
+
+If we look at the percentage of AMR genes per city, we see that in Novara it is 15%, much higher than in Turin. Proportionally, this percentage of the population shows that in Novara there are 4 AMR genes per 100,000 inhabitants, while in Turin there are 0.6. This could be due to a different percentage of the population at risk or different methods of sewage management.
+
+An interesting observation concerns the presence of resistance to aminoglycosides, which has been particularly prevalent in samples from Turin since 2024. This phenomenon could be linked to local clinical practices, suggesting possible selective pressure. It is also interesting to note the concomitant increase in beta-lactams, suggesting that these are found in broad-spectrum form.
+
 ## :notebook: Contents
 - Illumina FSA files
 - Datasets
